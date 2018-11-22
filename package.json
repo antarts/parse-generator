@@ -1,0 +1,14 @@
+{
+  "name": "parse-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/parse-cli.js",
+  "author": "xugaoyang <i@xugaoyang.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "mkdirp": "^0.5.1",
+    "randomatic": "^3.1.1"
+  }
+}
